@@ -1,5 +1,7 @@
 ## So this is the profile readme everyone's talking about, eh?
 
+Web, Desktop & Mobile development
+
 #### Languages:<br/>
 C# Expert,<br/>
 Java, Dart, GIT, TS & JS, CSS & HTML intermediate,<br/>
