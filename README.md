@@ -1,12 +1,14 @@
 ## So this is the profile readme everyone's talking about, eh?
 
+#### Languages:<br/>
 C# Expert,<br/>
-Java, Dart, JS, TS, GIT, CSS & HTML intermediate,<br/>
-SQL & PHP beginner
+Java, Dart, GIT, TS & JS, CSS & HTML intermediate,<br/>
+SQL beginner
 
-PHP/Nette, MongoDb, React, node.js/Express, Flutter, .NET, Windows Forms, Networking... etc. etc.
+#### Technologies:<br/>
+MongoDB, React, Next.JS, tRPC, REST API, node.js/Express, Flutter, .NET, Windows Forms, Android Native... etc. etc.
 
-I'm looking for experience and I'm up to any project. You can hit me up on FB: [facebook.com/matej.pesl1](https://www.facebook.com/matej.pesl1/), Discord: [Aspire#9751](https://discord.com/users/359370071606296578), phone: +420 732 175 490, or at matejpesl1@gmail.com :)
+I'm looking for experience and I'm up to any fun project. You can hit me up on FB: [facebook.com/matej.pesl1](https://www.facebook.com/matej.pesl1/), Discord: [Aspire#9751](https://discord.com/users/359370071606296578), phone: +420 732 175 490, or at matejpesl1@gmail.com :)
 
 [LinkedIn](https://www.linkedin.com/in/matej-pesl/)
 
