@@ -1,14 +1,14 @@
-## So this is the profile readme everyone's talking about, eh?
+## Profile
 
-Web, Desktop & Mobile development
+4+ years of experience | Web, Desktop & Mobile development
 
 #### Languages:<br/>
 C# Expert,<br/>
-Java, Dart, GIT, TS & JS, CSS & HTML intermediate,<br/>
-SQL beginner
+Java, Dart, GIT, TS & JS, CSS & HTML, TailwindCSS intermediate,<br/>
+SQL & NoSQL beginner
 
 #### Technologies:<br/>
-MongoDB, React, Next.JS, tRPC, REST API, node.js/Express, Flutter, .NET, Windows Forms, Android Native... etc. etc.
+MongoDB, React, Next.JS, tRPC, REST API, node.js/Express.js, Flutter, .NET, Windows Forms, Android Native... etc. etc.
 
 I'm looking for experience and I'm up to any fun project. You can hit me up on FB: [facebook.com/matej.pesl1](https://www.facebook.com/matej.pesl1/), Discord: [Aspire#9751](https://discord.com/users/359370071606296578), phone: +420 732 175 490, or at matejpesl1@gmail.com :)
 
