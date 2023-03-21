@@ -12,7 +12,7 @@ MongoDB, React, Next.JS, tRPC, REST API, node.js/Express.js, Flutter, .NET, Wind
 
 I'm looking for experience and I'm up to any fun project. You can hit me up on FB: [facebook.com/matej.pesl1](https://www.facebook.com/matej.pesl1/), Discord: [Aspire#9751](https://discord.com/users/359370071606296578), phone: +420 732 175 490, or at matejpesl1@gmail.com :)
 
-[LinkedIn](https://www.linkedin.com/in/matej-pesl/)
+[Matěj Pešl • LinkedIn](https://www.linkedin.com/in/matej-pesl/)
 
 ![](https://raw.githubusercontent.com/AspireOne/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AspireOne/github-stats/master/generated/overview.svg#gh-light-mode-only)
