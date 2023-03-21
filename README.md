@@ -1,6 +1,6 @@
 ## Profile
 
-4+ years of experience | Web, Desktop & Mobile development
+4+ years of experience • Web, Desktop & Mobile development
 
 #### Languages:<br/>
 C# Expert,<br/>
