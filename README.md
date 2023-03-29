@@ -1,4 +1,5 @@
 ## Profile
+// Let the age of A.I. begin!
 
 4+ years of experience • Web, Desktop & Mobile development
 
