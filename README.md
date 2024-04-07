@@ -1,12 +1,12 @@
 ## Profile
 // Let the age of A.I. begin!
 
-6 years of experience • Web, Desktop, Mobile & AI development<br/>
+7 years of experience • Web, Desktop, Mobile & AI development<br/>
 
-I am currently focusing on A.I. and Web/Server development.
+I am currently focusing on A.I. & Web/Server development.
 
 #### Technologies:<br/>
-These days I'm working mainly with React/NextJS/node.
+These days I'm working mainly with React/NextJS/node and newer web technologies.
  
 In the past I heavily worked with MongoDB, Laravel, node.js/Express.js, Flutter, .NET, Windows Forms, Android Native... etc. etc.
 
