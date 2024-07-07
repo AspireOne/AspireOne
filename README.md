@@ -6,9 +6,9 @@
 I am currently focusing on A.I. & Web/Server development.
 
 #### Technologies:<br/>
-These days I'm working mainly with React/NextJS/node and newer web technologies.
+Today's tech stack consists usually of React/NextJS, node/Nest/Fastify, postgres/Kysely, VPS/Coolify, Posthog, Sentry, Firebase, pnpm, tailwind, Backblaze, Valkey, Expo (for mobile), some AI...
  
-In the past I heavily worked with MongoDB, Laravel, node.js/Express.js, Flutter, .NET, Windows Forms, Android Native... etc. etc.
+In the past I heavily worked with MongoDB, Laravel, node/Express, Flutter, .NET, Windows Forms, Android Native... etc. etc.
 
 You can hit me up on FB: [m.me/matej.pesl1](https://m.me/matej.pesl1/), Discord: [Aspire#9751](https://discord.com/users/359370071606296578), or at matejpesl1@gmail.com :)
 
