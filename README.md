@@ -3,7 +3,7 @@
 
 7 years of experience • Web, Server, Frontend, Backend, Mobile & Desktop development<br/>
 
-#### Some public hobby projects:
+#### A few public pass-time projects:
 
 - [Waifuu](https://github.com/AspireOne/waifuu) | AI Roleplay-Based Web Platform | Node.js, Next.js, Stripe (payments), PostgreSQL, Prisma, Firebase...
 - [ClausaComm](https://github.com/AspireOne/ClausaComm) | A Sophisticated Skype-like Chat App with minimal latency | Windows Forms, local DB, Events, Win32 APIs...
