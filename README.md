@@ -9,7 +9,7 @@
 
 - [**Waifuu**](https://github.com/AspireOne/waifuu) [[web](https://waifuu.com)] - *A full AI Roleplay-Based Web Platform*
 - [**ClausaComm**](https://github.com/AspireOne/ClausaComm) - *A Sophisticated Skype-like Windows Communication App with zero latency*
-- [**Diff Detective**](https://github.com/AspireOne/diff-detective) [[npm](https://www.npmjs.com/package/diff-detective)] – *A CLI Tool for automatic review of staged git changes | Node, TS, pnpm, AI, CLI...*
+- [**Diff Detective**](https://github.com/AspireOne/diff-detective) [[npm](https://www.npmjs.com/package/diff-detective)] – *A CLI Tool for automatic review of staged git changes*
 - [**GemiTARS**](https://github.com/AspireOne/GemiTARS) - *Conversational TARS robot built on Raspberry Pi Zero 2 W (with mic, speaker...) - client software + server*
 
 #### 🤖 AI-Powered Services
@@ -21,16 +21,16 @@
 #### 🖥️ Desktop & System Tools
 
 - [**Desktop Time Limiter**](https://github.com/AspireOne/desktop-time-limiter) – A local solution for limiting screen time of children on PC
-- [**ClausaComm Installer**](https://github.com/AspireOne/ClausaComm-Installer) – A Custom-Built Installer for ClausaComm | Deep Windows integration, Win32, Registry management...
+- [**ClausaComm Installer**](https://github.com/AspireOne/ClausaComm-Installer) – A Custom-Built Installer for ClausaComm | Windows integration, Win32, Registry management...
 - [**ArrowCursor**](https://github.com/AspireOne/ArrowsCursor) – Control your cursor with arrows keys
 
-#### 🛠️ Misc
+#### 🎲 Misc
 
 - [**Tečka**](https://github.com/AspireOne/Tecka) – A 1:1 visual clone of government's Tečka mobile app (Covid certification) for visual and QR spoofing
 - [**Text Compression**](https://github.com/AspireOne/Text-Compression) – A custom implementation of Huffman Coding compression
 
 
-[**→ ...More projects...**](https://github.com/AspireOne?tab=repositories)
+[**→  More projects...**](https://github.com/AspireOne?tab=repositories)
 
 ### 📊 GitHub Stats
 
@@ -41,6 +41,6 @@
 
 ### 🤍 Get in touch
 
-[Discord: aspireone](https://discord.com/users/359370071606296578) / matejpesl1@gmail.com
-
-[Matěj Pešl • LinkedIn](https://www.linkedin.com/in/matej-pesl/)
+ [Discord: aspireone](https://discord.com/users/359370071606296578) / matejpesl1@gmail.com
+ 
+ [Matěj Pešl • LinkedIn](https://www.linkedin.com/in/matej-pesl/)
