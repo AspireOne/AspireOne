@@ -4,7 +4,6 @@
 7 years of development experience across Web, Backend, Mobile & Desktop.
 
 ### Some Public Projects
----
 
 #### 🌟 Featured
 
@@ -32,8 +31,6 @@
 
 
 [**→ ...More projects...**](https://github.com/AspireOne?tab=repositories)
-
----
 
 ### 📊 GitHub Stats
 
