@@ -9,14 +9,13 @@
 
 - [**Waifuu**](https://github.com/AspireOne/waifuu) [[web](https://waifuu.com)] - *A full AI Roleplay-Based Web Platform*
 - [**ClausaComm**](https://github.com/AspireOne/ClausaComm) - *A Sophisticated Skype-like Windows Communication App with zero latency*
-- [**Diff Detective**](https://github.com/AspireOne/diff-detective) [[npm](https://www.npmjs.com/package/diff-detective)] – *A CLI Tool for automatic review of staged git changes*
+- [**Diff Detective**](https://github.com/AspireOne/diff-detective) [[npm](https://www.npmjs.com/package/diff-detective)] – *A small CLI Tool for automatic review of staged git changes*
 - [**GemiTARS**](https://github.com/AspireOne/GemiTARS) - *Conversational TARS robot built on Raspberry Pi Zero 2 W (with mic, speaker...) - client software + server*
 
 #### 🤖 AI-Powered Services
 
 - [**AI FM**](https://github.com/AspireOne/ai-fm-backend) [[live](https://fm.matejpesl.cz)] – Create custom, full-fledged radio station from youtube songs, and listen to your music real-time with friends, with AI generated DJ segments, sweepers, customizable playlists, DJ voice, personality, and much more
 - [**Aura**](https://github.com/AspireOne/aura) – AI-based Discord bot for DMs and channels with dynamic text-based configuration
-- [**Intellify**](https://github.com/AspireOne/intellify) – A web platform with a set of pre-built AI tools
 
 #### 🖥️ Desktop & System Tools
 
