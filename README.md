@@ -1,7 +1,7 @@
 ## 🤗 Profile
 > // Let the age of A.I. begin!
 
-7 years of development experience across Web, Backend, Mobile & Desktop
+8 years of development experience across Web, Backend, Mobile & Desktop
 
 ### Some Public Projects
 
