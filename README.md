@@ -1,33 +1,33 @@
 ## 🤗 Profile
-> // Let the age of A.I. begin!
+> I like AI
 
-8 years of development experience across Web, Backend, Mobile & Desktop
+### Stuff
 
-### Some Public Projects
 
-#### 🌟 Interesting
+#### 🌟 Interesting Stuff
 
 - [**Waifuu**](https://github.com/AspireOne/waifuu) [[web](https://waifuu.com)] - *A full AI Roleplay-Based Web Platform*
-- [**ClausaComm**](https://github.com/AspireOne/ClausaComm) - *A Sophisticated Skype-like Windows Communication App with zero latency* (+ a [Custom Windows Installer](https://github.com/AspireOne/ClausaComm-Installer))
-- [**Diff Detective**](https://github.com/AspireOne/diff-detective) [[npm](https://www.npmjs.com/package/diff-detective)] – *A small CLI Tool for automatic review of staged git changes*
+- [**ClausaComm**](https://github.com/AspireOne/ClausaComm) (+ [**a custom-built installer**](https://github.com/AspireOne/ClausaComm-Installer)) - *A Sophisticated Skype-like Windows Communication App with zero latency* (+ a [Custom Windows Installer](https://github.com/AspireOne/ClausaComm-Installer))
 - [**GemiTARS**](https://github.com/AspireOne/GemiTARS) - *Conversational TARS robot built on Raspberry Pi Zero 2 W (with mic, speaker...) - client software + server*
 
-#### 🤖 AI-Powered Services
+#### 🤖 AI-Powered Stuff
 
+- [**Codex auth manager**](https://github.com/AspireOne/codex-auth-manager) - Switch between different Codex accounts (/API key profiles) quickly
+- [**Diff Detective**](https://github.com/AspireOne/diff-detective) [[npm](https://www.npmjs.com/package/diff-detective)] – *A small CLI Tool for automatic review of staged git changes*
 - [**AI FM**](https://github.com/AspireOne/ai-fm-backend) [[live](https://fm.matejpesl.cz)] – Create custom, full-fledged radio station from youtube songs, and listen to your music real-time with friends, with AI generated DJ segments, sweepers, customizable playlists, DJ voice, personality, and much more
 - [**Aura**](https://github.com/AspireOne/aura) – AI-based Discord bot for DMs & channels, with dynamic chat-enabled configuration
-
-#### 🖥️ Desktop & System Tools
-
-- [**Desktop Time Limiter**](https://github.com/AspireOne/desktop-time-limiter) – A local solution for limiting screen time of children on PC
-- [**ClausaComm Installer**](https://github.com/AspireOne/ClausaComm-Installer) – A Custom-Built Installer for ClausaComm | Windows integration, Win32, Registry management...
-- [**ArrowCursor**](https://github.com/AspireOne/ArrowsCursor) – Control your desktop cursor with just arrows keys
 
 #### 🎲 Misc
 
 - [**Tečka**](https://github.com/AspireOne/Tecka) – A 1:1 visual clone of government's Tečka mobile app (Covid certification) for visual and QR spoofing
 - [**Text Compression**](https://github.com/AspireOne/Text-Compression) – A custom implementation of Huffman Coding compression
-- [**Tic-Tac-Toe**](https://github.com/AspireOne/tic-tac-toe) - A terminal-based visual Tic-Tac-Toe in C#
+- [**Tic-Tac-Toe**](https://github.com/AspireOne/tic-tac-toe) - A terminal-based visual Tic-Tac-Toe with a local multiplayer | in C# 🤍
+
+
+#### 🖥️ Desktop & System Stuff
+
+- [**Desktop Time Limiter**](https://github.com/AspireOne/desktop-time-limiter) – A local solution for limiting screen time of children on PC
+- [**ArrowCursor**](https://github.com/AspireOne/ArrowsCursor) – Control your desktop cursor with just arrows keys
 
 
 [**→  More projects...**](https://github.com/AspireOne?tab=repositories)
@@ -41,6 +41,4 @@
 
 ### 🤍 Get in touch
 
- [Discord: aspireone](https://discord.com/users/359370071606296578) / matejpesl1@gmail.com
- 
- [Matěj Pešl • LinkedIn](https://www.linkedin.com/in/matej-pesl/)
+ [Discord: aspireone](https://discord.com/users/359370071606296578)
