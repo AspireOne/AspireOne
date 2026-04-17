@@ -1,9 +1,6 @@
 ## 🤗 Profile
 > I like AI
 
-### Stuff
-
-
 #### 🌟 Interesting Stuff
 
 - [**Waifuu**](https://github.com/AspireOne/waifuu) [[web](https://waifuu.com)] - *A full AI Roleplay-Based Web Platform*
