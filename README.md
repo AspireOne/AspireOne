@@ -6,6 +6,7 @@
 - [**Waifuu**](https://github.com/AspireOne/waifuu) [[web](https://waifuu.com)] - *A full AI Roleplay-Based Web Platform*
 - [**ClausaComm**](https://github.com/AspireOne/ClausaComm) (+ [**a custom-built installer**](https://github.com/AspireOne/ClausaComm-Installer)) - *A Sophisticated Skype-like Windows Communication App with zero latency* (+ a [Custom Windows Installer](https://github.com/AspireOne/ClausaComm-Installer))
 - [**GemiTARS**](https://github.com/AspireOne/GemiTARS) - *Conversational TARS robot built on Raspberry Pi Zero 2 W (with mic, speaker...) - client software + server*
+- [**Git Worktree Manager**](https://github.com/AspireOne/worktree-manager) - *An advanced manager for Git Worktrees - ideal for multi-agent workflows*
 
 #### 🤖 AI-Powered Stuff
 
